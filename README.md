@@ -1,4 +1,9 @@
 # networks-B084-week1-Cybersecurity-lab-setup
-cybersecurity lab setup
-i have completed my work like this
-i created my account and managed to put everything what i was supported to put
+Task: Setup kali and windows in virtualBox
+##What i did
+-created NAT Network 10.0.0.0/24
+-kali IP is 10.0.0.2
+-windows IP is 10.0.0.10
+-Ping is working between them
+-internet is working on kali
+##MY SCREENSHOTS
